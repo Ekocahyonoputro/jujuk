@@ -28,7 +28,7 @@
     "displayTextMenu5": "dashboard",
     "limitCount": 100,
     "limitGame": 35,
-    "gamewaktu": 90,
+    "gamewaktu": 60,
     "sticker": {
         "packname": "© Store",
         "author": "EKO BOTZ"
